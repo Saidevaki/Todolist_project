@@ -15,5 +15,5 @@ git clone https://github.com/Chandrakalavathi173/TODOLIST_project.git
 cd TODOLIST_project
 3. Ensure you have Node.js installed on your machine,then enter the following command 
 npm install
-4.After installation, you can start the application with by using the following command
+4. After installation, you can start the application with by using the following command
 npm start
