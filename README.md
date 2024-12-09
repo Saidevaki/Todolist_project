@@ -11,7 +11,7 @@ The app provides a clean  user interface to help you stay organized and keep tra
 6. Save your tasks locally for convenience
 # To run this Todo List app, you can follow these steps:
 1. First, clone the GitHub repository containing the code to your local machine. You can use the following command in your terminal:
-git clone https://github.com/Chandrakalavathi173/TODOLIST_project.git
+git clone https://github.com/Saidevaki/Todolist_project.git
 2. Use the cd command to enter the project directory:
 cd TODOLIST_project
 3. Ensure you have Node.js installed on your machine,then enter the following command 
