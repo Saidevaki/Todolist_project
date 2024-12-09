@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TODOLIST_project
 This is a simple React-based Todo List application. It allows users to create, edit, and manage their daily tasks and to-do items.
 The app provides a clean  user interface to help you stay organized and keep track of your tasks effectively.
@@ -17,3 +18,6 @@ cd TODOLIST_project
 npm install
 4. After installation, you can start the application with by using the following command
 npm start
+=======
+# Todolist_project
+>>>>>>> a172ba1c827d88f0666873f9903df17e77a23bfe
